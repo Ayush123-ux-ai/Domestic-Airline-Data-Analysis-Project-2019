@@ -22,7 +22,7 @@ Year: 2019
 
 Region: Domestic flights within India
 
-Format: .csv
+Format: .xlsx
 
 File Used:Data_Train_xlsx
 
