@@ -5,7 +5,7 @@ This project analyzes a comprehensive dataset of 10,683 domestic flights in Indi
 ## Objectives
 Analyze flight distributions by stoppage type
 
-Identify the most expensive and cheapest flights\
+Identify the most expensive and cheapest flights
 
 Study price variations across different source cities
 
