@@ -67,14 +67,6 @@ Through data cleaning, visualization, and analysis, the project uncovers importa
 * NumPy – Numerical Computation
 * Jupyter Notebook
 
-## 📊 Visualizations
-The project includes several visual analyses, such as:
-* Price distribution by airline
-* Price comparison by source city
-* Impact of total stops on pricing
-* Flight frequency by month
-* Duration vs Price relationship
-* Cheapest vs most expensive routes
 
 ## 🔍 Key Insights
 * One-stop flights are the most common travel option.
