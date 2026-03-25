@@ -5,7 +5,7 @@ This project performs Exploratory Data Analysis (EDA) on a dataset of 10,683 Ind
 Through data cleaning, visualization, and analysis, the project uncovers important pricing patterns and travel trends in the Indian aviation market.
 
 ## 🎯 Objectives
-Clean and preprocess the airline dataset for accurate analysis.
+* Clean and preprocess the airline dataset for accurate analysis.
 Explore how airline type affects ticket prices.
 Analyze the impact of total stops on flight prices.
 Identify the most expensive and cheapest flights.
