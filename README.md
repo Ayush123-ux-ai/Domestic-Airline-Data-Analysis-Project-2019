@@ -33,22 +33,22 @@ Through data cleaning, visualization, and analysis, the project uncovers importa
 * Price
 
 ## ⚙️ Project Workflow
-# Data Loading
+### Data Loading
 * Imported dataset using Pandas
-# Data Cleaning
+### Data Cleaning
 * Handled missing values
 * Removed irrelevant information
 * Converted date and time columns
 * Standardized categorical variables
-# Feature Engineering
+### Feature Engineering
 * Extracted Journey Day and Month
 * Converted Duration into numeric format
 * Created new useful variables for analysis
-# Exploratory Data Analysis (EDA)
+###  Exploratory Data Analysis (EDA)
 * Analyzed price distributions
 * Studied relationships between features
 * Compared airline pricing strategies
-# Data Visualization
+###  Data Visualization
 * Created visual insights using Matplotlib and Seaborn
   
 ## 📈 Key Business Questions
