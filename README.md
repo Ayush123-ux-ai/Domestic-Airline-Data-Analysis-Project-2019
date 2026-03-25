@@ -38,7 +38,7 @@ Through data cleaning, visualization, and analysis, the project uncovers importa
 * Price
 ---------------
 
-## ⚙️ Project Workflow
+## ⚙️ Steps Taken
 ### Data Loading
 * Imported dataset using Pandas
 ### Data Cleaning
